@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/brunooliveiraah">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brunooliveiraah&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide_border=false&show_owner=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooliveiraah&theme=codeSTACKr&hide_border=false&&layout=compact"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brunooliveiraah&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide_border=false&show_owner=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooliveiraah&theme=codeSTACKr&hide_border=false&&layout=compact"/>
   </a>
 </div>
